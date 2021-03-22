@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Dit is de lekkerste rendang ooit"
-image: rendang.jpg.jpg
+image: rendang.jpg
 tags: slow-cooked, rund, taco
 
 ingredients:
